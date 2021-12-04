@@ -1,2 +1,1 @@
-# mi-primer-repositorio
-este es mi proyecto en github
+Repositorio  es un almacen o lugar donde se guardan siertas cosas
